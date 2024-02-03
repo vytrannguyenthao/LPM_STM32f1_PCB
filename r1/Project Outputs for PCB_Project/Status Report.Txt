@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[LPM_CLK.GTO]
+   Generated File[LPM_CLK.GTP]
+   Generated File[LPM_CLK.GTS]
+   Generated File[LPM_CLK.GTL]
+   Generated File[LPM_CLK.GBL]
+   Generated File[LPM_CLK.GBS]
+   Generated File[LPM_CLK.GBP]
+   Generated File[LPM_CLK.GBO]
+   Generated File[LPM_CLK.GM]
+   Generated File[LPM_CLK.EXTREP]
+   Generated File[LPM_CLK.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 9:56:44 PM On 12/10/2023
