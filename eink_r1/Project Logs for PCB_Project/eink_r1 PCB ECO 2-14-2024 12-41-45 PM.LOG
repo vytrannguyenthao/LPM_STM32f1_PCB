@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=BUTTON3 Pin=S5-1
+Change Component Footprint: Designator=D1 Old Footprint=DIOM5435X247N New Footprint=SOD523
+Change Component Comment : Designator=D1 Old Comment=MBRS140T3G New Comment=1PS79SB30
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DIOM5435X247N"; UniqueID = "\SYCAHBRG" ("\SYCAHBRG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1PS79SB30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-523 NXP Semiconductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1PS79SB30/Nexperia%20USA%20Inc./view-part/134514/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

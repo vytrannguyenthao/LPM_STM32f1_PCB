@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=3V3 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Change Component Footprint: Designator=C2 Old Footprint=CAP-SM-0805 New Footprint=CAP-SM-0603
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Add Component: Footprint Not Found BAT_BAT-HLD-001
+Add Component: Footprint Not Found TANTALUM SMD A
+Add Component: Footprint Not Found XH-8A_SMD_Header
+Add Component: Footprint Not Found XDCR_CMT-7525-80-SMT-TR
+Added Component: Designator=R5(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TSQFP50P900X900X160-48N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier 1 Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BT1-N1
+Add Pin To Net: Unknown Pin: Pin BT1-P1
+Add Pin To Net: Unknown Pin: Pin BT1-P2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin LS1-N
+Add Pin To Net: Unknown Pin: Pin LS1-P
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=LED Pin=U1-2
+Added Pin To Net: NetName=RESET Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=3V3 Pin=U1-9
+Added Pin To Net: NetName=WKUP Pin=U1-10
+Added Pin To Net: NetName=RST Pin=U1-11
+Added Pin To Net: NetName=DC Pin=U1-12
+Added Pin To Net: NetName=BUSY Pin=U1-13
+Added Pin To Net: NetName=SPI_CS Pin=U1-14
+Added Pin To Net: NetName=SPI_CLK Pin=U1-15
+Added Pin To Net: NetName=BUZZER Pin=U1-16
+Added Pin To Net: NetName=SPI_MOSI Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=3V3 Pin=U1-24
+Added Pin To Net: NetName=BUTTON1 Pin=U1-29
+Added Pin To Net: NetName=BUTTON2 Pin=U1-30
+Added Pin To Net: NetName=BUTTON3 Pin=U1-31
+Added Pin To Net: NetName=BUTTON4 Pin=U1-32
+Added Pin To Net: NetName=SWDIO Pin=U1-34
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=3V3 Pin=U1-36
+Added Pin To Net: NetName=SWDCLK Pin=U1-37
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=3V3 Pin=U1-48
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-44
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=OSCIN Pin=U1-3
+Added Net: Name=OSCIN
+Added Pin To Net: NetName=OSCOUT Pin=U1-4
+Added Net: Name=OSCOUT
+Add Class Member: Failed to add class member : Component BT1 BAT-HLD-001
+Add Class Member: Failed to add class member : Component C3 1 µF, 16 V
+Add Class Member: Failed to add class member : Component J1 Header
+Add Class Member: Failed to add class member : Component LS1 CMT-7525-80-SMT-TR
+Added Member To Class: ClassName=eink_r1 Member=Component U1 STM32F103C8T6

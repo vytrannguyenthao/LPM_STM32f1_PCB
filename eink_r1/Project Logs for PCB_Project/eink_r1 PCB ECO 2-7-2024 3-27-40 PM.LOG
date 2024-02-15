@@ -1,0 +1,85 @@
+Add Component: Footprint Not Found BAT_BAT-HLD-001
+Add Component: Footprint Not Found TANTALUM SMD A
+Add Component: Footprint Not Found XH-8A_SMD_Header
+Add Component: Footprint Not Found XDCR_CMT-7525-80-SMT-TR
+Added Component: Designator=S1(SW2)
+Added Component: Designator=SW1(Button 4-pin SMD)
+Added Component: Designator=SW2(Button 4-pin SMD)
+Added Component: Designator=SW3(Button 4-pin SMD)
+Added Component: Designator=SW4(Button 4-pin SMD)
+Added Component: Designator=SW5(Button 4-pin SMD)
+Add Component: Footprint Not Found QFP50P900X900X160-48N
+Add Pin To Net: Unknown Pin: Pin BT1-N1
+Add Pin To Net: Unknown Pin: Pin BT1-P1
+Add Pin To Net: Unknown Pin: Pin BT1-P2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin LS1-N
+Add Pin To Net: Unknown Pin: Pin LS1-P
+Added Pin To Net: NetName=WKUP Pin=S1-1
+Added Pin To Net: NetName=3V3 Pin=S1-2
+Added Pin To Net: NetName=BUTTON4 Pin=SW1-1
+Added Pin To Net: NetName=BUTTON4 Pin=SW1-1
+Added Pin To Net: NetName=3V3 Pin=SW1-2
+Added Pin To Net: NetName=3V3 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=RESET Pin=SW2-2
+Added Pin To Net: NetName=RESET Pin=SW2-2
+Added Pin To Net: NetName=BUTTON2 Pin=SW3-1
+Added Pin To Net: NetName=BUTTON2 Pin=SW3-1
+Added Pin To Net: NetName=3V3 Pin=SW3-2
+Added Pin To Net: NetName=3V3 Pin=SW3-2
+Added Pin To Net: NetName=BUTTON1 Pin=SW4-1
+Added Pin To Net: NetName=BUTTON1 Pin=SW4-1
+Added Pin To Net: NetName=3V3 Pin=SW4-2
+Added Pin To Net: NetName=3V3 Pin=SW4-2
+Added Pin To Net: NetName=BUTTON3 Pin=SW5-1
+Added Pin To Net: NetName=BUTTON3 Pin=SW5-1
+Added Pin To Net: NetName=3V3 Pin=SW5-2
+Added Pin To Net: NetName=3V3 Pin=SW5-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-23
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U1-34
+Add Pin To Net: Unknown Pin: Pin U1-35
+Add Pin To Net: Unknown Pin: Pin U1-36
+Add Pin To Net: Unknown Pin: Pin U1-37
+Add Pin To Net: Unknown Pin: Pin U1-41
+Add Pin To Net: Unknown Pin: Pin U1-42
+Add Pin To Net: Unknown Pin: Pin U1-43
+Add Pin To Net: Unknown Pin: Pin U1-44
+Add Pin To Net: Unknown Pin: Pin U1-45
+Add Pin To Net: Unknown Pin: Pin U1-47
+Add Pin To Net: Unknown Pin: Pin U1-48
+Add Class Member: Failed to add class member : Component BT1 BAT-HLD-001
+Add Class Member: Failed to add class member : Component C3 1 µF, 16 V
+Add Class Member: Failed to add class member : Component J1 Header
+Add Class Member: Failed to add class member : Component LS1 CMT-7525-80-SMT-TR
+Added Member To Class: ClassName=eink_r1 Member=Component S1 Tact SW - 2Pin
+Added Member To Class: ClassName=eink_r1 Member=Component SW1 Button
+Added Member To Class: ClassName=eink_r1 Member=Component SW2 Button
+Added Member To Class: ClassName=eink_r1 Member=Component SW3 Button
+Added Member To Class: ClassName=eink_r1 Member=Component SW4 Button
+Added Member To Class: ClassName=eink_r1 Member=Component SW5 Button
+Add Class Member: Failed to add class member : Component U1 STM32F103C8T6

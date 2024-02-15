@@ -1,0 +1,20 @@
+Add Component: Footprint Not Found XH-8A_SMD_Header
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Added Member To Class: ClassName=LPM_CLK Member=Component C1 Cap Non-Pol SMD
+Added Member To Class: ClassName=LPM_CLK Member=Component C5 Cap Non-Pol SMD
+Added Member To Class: ClassName=LPM_CLK Member=Component C7 Cap Non-Pol SMD
+Added Member To Class: ClassName=LPM_CLK Member=Component C13 Cap Non-Pol SMD
+Added Member To Class: ClassName=LPM_CLK Member=Component C14 Cap Non-Pol SMD
+Add Class Member: Failed to add class member : Component J1 Header
+Added Member To Class: ClassName=LPM_CLK Member=Component R1 RESISTOR SMD
+Added Member To Class: ClassName=LPM_CLK Member=Component R3 RESISTOR SMD
+Added Member To Class: ClassName=LPM_CLK Member=Component R5 RESISTOR SMD
+Added Member To Class: ClassName=LPM_CLK Member=Component R7 RESISTOR SMD
+Added Member To Class: ClassName=LPM_CLK Member=Component R9 RESISTOR SMD

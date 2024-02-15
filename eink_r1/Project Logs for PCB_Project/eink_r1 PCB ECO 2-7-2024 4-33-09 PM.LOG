@@ -1,0 +1,35 @@
+Add Component: Footprint Not Found BAT_BAT-HLD-001
+Added Component: Designator=C3(CAPMP3216X18N)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(PCBComponent_1)
+Added Component: Designator=LS1(XDCR_CMT-0926-86-SMT-TR)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CMT-0926-86-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BT1-N1
+Add Pin To Net: Unknown Pin: Pin BT1-P1
+Add Pin To Net: Unknown Pin: Pin BT1-P2
+Added Pin To Net: NetName=3V3 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=BUSY Pin=J1-1
+Added Pin To Net: NetName=RST Pin=J1-2
+Added Pin To Net: NetName=DC Pin=J1-3
+Added Pin To Net: NetName=SPI_CS Pin=J1-4
+Added Pin To Net: NetName=SPI_CLK Pin=J1-5
+Added Pin To Net: NetName=SPI_MOSI Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=3V3 Pin=J1-8
+Added Pin To Net: NetName=GND Pin=LS1-N
+Added Pin To Net: NetName=NetLS1_P Pin=LS1-P
+Add Class Member: Failed to add class member : Component BT1 BAT-HLD-001
+Added Member To Class: ClassName=eink_r1 Member=Component C3 Tantalum Capacitor
+Added Member To Class: ClassName=eink_r1 Member=Component C10 Cap Non-Pol SMD
+Added Member To Class: ClassName=eink_r1 Member=Component C11 Cap Non-Pol SMD
+Added Member To Class: ClassName=eink_r1 Member=Component C12 Cap Non-Pol SMD
+Added Member To Class: ClassName=eink_r1 Member=Component C13 Cap Non-Pol SMD
+Added Member To Class: ClassName=eink_r1 Member=Component C14 Cap Non-Pol SMD
+Added Member To Class: ClassName=eink_r1 Member=Component J1 Header
+Added Member To Class: ClassName=eink_r1 Member=Component LS1 CMT-0926-86-SMT-TR

@@ -1,0 +1,85 @@
+Add Component: Footprint Not Found BAT_BAT-HLD-001
+Add Component: Footprint Not Found TANTALUM SMD A
+Add Component: Footprint Not Found XH-8A_SMD_Header
+Add Component: Footprint Not Found SW520D
+Add Component: Footprint Not Found XDCR_CMT-7525-80-SMT-TR
+Add Component: Footprint Not Found WS-TASV_L6W6H3.5_4304x10358x6
+Add Component: Footprint Not Found WS-TASV_L6W6H3.5_4304x10358x6
+Add Component: Footprint Not Found WS-TASV_L6W6H3.5_4304x10358x6
+Add Component: Footprint Not Found WS-TASV_L6W6H3.5_4304x10358x6
+Add Component: Footprint Not Found WS-TASV_L6W6H3.5_4304x10358x6
+Add Component: Footprint Not Found QFP50P900X900X160-48N
+Add Pin To Net: Unknown Pin: Pin BT1-N1
+Add Pin To Net: Unknown Pin: Pin BT1-P1
+Add Pin To Net: Unknown Pin: Pin BT1-P2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin K1-0
+Add Pin To Net: Unknown Pin: Pin K1-1
+Add Pin To Net: Unknown Pin: Pin LS1-N
+Add Pin To Net: Unknown Pin: Pin LS1-P
+Add Pin To Net: Unknown Pin: Pin SW1-A1
+Add Pin To Net: Unknown Pin: Pin SW1-A2
+Add Pin To Net: Unknown Pin: Pin SW1-B1
+Add Pin To Net: Unknown Pin: Pin SW1-B2
+Add Pin To Net: Unknown Pin: Pin SW2-A1
+Add Pin To Net: Unknown Pin: Pin SW2-A2
+Add Pin To Net: Unknown Pin: Pin SW2-B1
+Add Pin To Net: Unknown Pin: Pin SW2-B2
+Add Pin To Net: Unknown Pin: Pin SW3-A1
+Add Pin To Net: Unknown Pin: Pin SW3-A2
+Add Pin To Net: Unknown Pin: Pin SW3-B1
+Add Pin To Net: Unknown Pin: Pin SW3-B2
+Add Pin To Net: Unknown Pin: Pin SW4-A1
+Add Pin To Net: Unknown Pin: Pin SW4-A2
+Add Pin To Net: Unknown Pin: Pin SW4-B1
+Add Pin To Net: Unknown Pin: Pin SW4-B2
+Add Pin To Net: Unknown Pin: Pin SW5-A1
+Add Pin To Net: Unknown Pin: Pin SW5-A2
+Add Pin To Net: Unknown Pin: Pin SW5-B1
+Add Pin To Net: Unknown Pin: Pin SW5-B2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-23
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U1-34
+Add Pin To Net: Unknown Pin: Pin U1-35
+Add Pin To Net: Unknown Pin: Pin U1-36
+Add Pin To Net: Unknown Pin: Pin U1-37
+Add Pin To Net: Unknown Pin: Pin U1-41
+Add Pin To Net: Unknown Pin: Pin U1-42
+Add Pin To Net: Unknown Pin: Pin U1-43
+Add Pin To Net: Unknown Pin: Pin U1-44
+Add Pin To Net: Unknown Pin: Pin U1-45
+Add Pin To Net: Unknown Pin: Pin U1-47
+Add Pin To Net: Unknown Pin: Pin U1-48
+Add Class Member: Failed to add class member : Component BT1 BAT-HLD-001
+Add Class Member: Failed to add class member : Component C3 1 µF, 16 V
+Add Class Member: Failed to add class member : Component J1 Header
+Add Class Member: Failed to add class member : Component K1 SW520
+Add Class Member: Failed to add class member : Component LS1 CMT-7525-80-SMT-TR
+Add Class Member: Failed to add class member : Component SW1 430451035836
+Add Class Member: Failed to add class member : Component SW2 430451035836
+Add Class Member: Failed to add class member : Component SW3 430451035836
+Add Class Member: Failed to add class member : Component SW4 430451035836
+Add Class Member: Failed to add class member : Component SW5 430451035836
+Add Class Member: Failed to add class member : Component U1 STM32F103C8T6

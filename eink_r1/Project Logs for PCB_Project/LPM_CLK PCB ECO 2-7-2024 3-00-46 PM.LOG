@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=WKUP Pin=C6-1
+Removed Pin From Net: NetName=3V3 Pin=C6-2
+Removed Pin From Net: NetName=SPI_CLK Pin=J1-1
+Removed Pin From Net: NetName=SPI_MOSI Pin=J1-2
+Removed Pin From Net: NetName=SPI_CS Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=3V3 Pin=J1-6
+Removed Pin From Net: NetName=3V3 Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=J1-8
+Removed Pin From Net: NetName=GND Pin=J1-9
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=GND Pin=J1-
+Removed Pin From Net: NetName=GND Pin=J1-
+Removed Pin From Net: NetName=3V3 Pin=K1-0
+Removed Pin From Net: NetName=WKUP Pin=K1-1
+Removed Pin From Net: NetName=NetLS1_P Pin=LS1-1
+Removed Pin From Net: NetName=GND Pin=LS1-2
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=3V3 Pin=R1-2
+Removed Pin From Net: NetName=SPI_CS Pin=U1-11
+Removed Pin From Net: NetName=BUTTON2 Pin=U1-13
+Removed Pin From Net: NetName=BUTTON1 Pin=U1-14
+Removed Member From Class: ClassName=LPM_CLK Member=C15
+Removed Member From Class: ClassName=LPM_CLK Member=C16
+Change Footprint: Footprint Not Found XH-8A_SMD_Header
+Change Component Comment : Designator=J1 Old Comment=FPC_connect New Comment=Header
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Change Component Designator: OldDesignator=C12 NewDesignator=C10
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=C16 NewDesignator=C14
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R1
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R10
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Added Component: Designator=R5(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=WKUP Pin=C4-2
+Added Pin To Net: NetName=SPI_CS Pin=J1-4
+Added Pin To Net: NetName=SPI_CLK Pin=J1-5
+Added Pin To Net: NetName=SPI_MOSI Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=3V3 Pin=J1-8
+Added Pin To Net: NetName=WKUP Pin=K1-0
+Added Pin To Net: NetName=3V3 Pin=K1-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=WKUP Pin=R5-2
+Added Pin To Net: NetName=SPI_CS Pin=U1-14
+Added Pin To Net: NetName=BUTTON2 Pin=U1-43
+Added Pin To Net: NetName=BUTTON1 Pin=U1-45
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR3_2
+Added Pin To Net: NetName=BUSY Pin=J1-1
+Added Pin To Net: NetName=BUSY Pin=U1-13
+Added Net: Name=BUSY
+Added Pin To Net: NetName=DC Pin=J1-3
+Added Pin To Net: NetName=DC Pin=U1-12
+Added Net: Name=DC
+Added Pin To Net: NetName=RST Pin=J1-2
+Added Pin To Net: NetName=RST Pin=U1-11
+Added Net: Name=RST

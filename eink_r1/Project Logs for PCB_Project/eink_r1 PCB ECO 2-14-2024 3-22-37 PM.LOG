@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BUZZER Pin=U1-16
+Removed Pin From Net: NetName=LED Pin=U1-25
+Added Pin To Net: NetName=BUZZER Pin=U1-25
+Added Pin To Net: NetName=LED Pin=U1-26

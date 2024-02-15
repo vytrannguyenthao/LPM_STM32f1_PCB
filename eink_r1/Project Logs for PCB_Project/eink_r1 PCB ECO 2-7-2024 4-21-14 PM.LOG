@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=GND Pin=R5-1
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Add Component: Footprint Not Found BAT_BAT-HLD-001
+Add Component: Footprint Not Found TANTALUM SMD A
+Added Component: Designator=C10(CAP-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "22p"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "22p"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XH-8A_SMD_Header
+Add Component: Footprint Not Found XDCR_CMT-7525-80-SMT-TR
+Added Component: Designator=Y1(XTAL_HC49P488W43L1150T466H350)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/HC-49/U-S16000000ABJB/Citizen+Finedevice+Co+Ltd/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Citizen Finedevice Co Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HC-49/U-S16000000ABJB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HC-49/US Citizen Finetech Miyota"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/HC-49/U-S16000000ABJB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HC-49/U-S16000000ABJB/Citizen+Finedevice+Co+Ltd/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BT1-N1
+Add Pin To Net: Unknown Pin: Pin BT1-P1
+Add Pin To Net: Unknown Pin: Pin BT1-P2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Added Pin To Net: NetName=OSCIN Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=OSCOUT Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin LS1-N
+Add Pin To Net: Unknown Pin: Pin LS1-P
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=OSCOUT Pin=Y1-1
+Added Pin To Net: NetName=OSCIN Pin=Y1-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-44
+Added Net: Name=NetR5_1
+Add Class Member: Failed to add class member : Component BT1 BAT-HLD-001
+Add Class Member: Failed to add class member : Component C3 1 µF, 16 V
+Added Member To Class: ClassName=eink_r1 Member=Component C15 Cap Non-Pol SMD
+Added Member To Class: ClassName=eink_r1 Member=Component C16 Cap Non-Pol SMD
+Add Class Member: Failed to add class member : Component J1 Header
+Add Class Member: Failed to add class member : Component LS1 CMT-7525-80-SMT-TR
+Added Member To Class: ClassName=eink_r1 Member=Component R3 RESISTOR SMD
+Added Member To Class: ClassName=eink_r1 Member=Component R5 RESISTOR SMD
+Added Member To Class: ClassName=eink_r1 Member=Component Y1 HC-49/U-S16000000ABJB

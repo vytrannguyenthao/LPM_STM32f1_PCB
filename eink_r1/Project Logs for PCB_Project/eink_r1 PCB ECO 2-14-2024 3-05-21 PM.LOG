@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=BUTTON3 Pin=S5-1
+Removed Pin From Net: NetName=BUTTON1 Pin=U1-29
+Removed Pin From Net: NetName=BUTTON2 Pin=U1-30
+Removed Pin From Net: NetName=BUTTON3 Pin=U1-31
+Removed Pin From Net: NetName=BUTTON4 Pin=U1-32
+Added Pin To Net: NetName=BUTTON1 Pin=U1-39
+Added Pin To Net: NetName=BUTTON2 Pin=U1-40
+Added Pin To Net: NetName=BUTTON3 Pin=U1-41
+Added Pin To Net: NetName=BUTTON4 Pin=U1-42
+Added Member To Class: ClassName=eink_r1 Member=Component S1 PTS636_SM43J_SMTR_LFS
+Added Member To Class: ClassName=eink_r1 Member=Component S3 PTS636_SM43J_SMTR_LFS

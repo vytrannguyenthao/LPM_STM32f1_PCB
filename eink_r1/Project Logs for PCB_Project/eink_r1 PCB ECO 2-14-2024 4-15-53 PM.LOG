@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=BUTTON1 Pin=U1-39
+Removed Pin From Net: NetName=BUTTON2 Pin=U1-40
+Removed Pin From Net: NetName=BUTTON3 Pin=U1-41
+Added Pin To Net: NetName=BUTTON3 Pin=U1-39
+Added Pin To Net: NetName=BUTTON1 Pin=U1-40
+Added Pin To Net: NetName=BUTTON2 Pin=U1-41
+Change Net Name : Old Net Name=BUTTON1 New Net Name=BUTTON2
+Change Net Name : Old Net Name=BUTTON2 New Net Name=BUTTON3
+Change Net Name : Old Net Name=BUTTON3 New Net Name=BUTTON1
+Added Member To Class: ClassName=eink_r1 Member=Component C4 Cap Non-Pol SMD
+Added Member To Class: ClassName=eink_r1 Member=Component C5 Cap Non-Pol SMD
+Added Member To Class: ClassName=eink_r1 Member=Component C6 Cap Non-Pol SMD
+Added Member To Class: ClassName=eink_r1 Member=Component R6 RESISTOR SMD
+Added Member To Class: ClassName=eink_r1 Member=Component R9 RESISTOR SMD
+Added Member To Class: ClassName=eink_r1 Member=Component S1 Tact SW - 2Pin
+Added Member To Class: ClassName=eink_r1 Member=Component S2 PTS636_SM43J_SMTR_LFS
+Added Member To Class: ClassName=eink_r1 Member=Component S3 PTS636_SM43J_SMTR_LFS

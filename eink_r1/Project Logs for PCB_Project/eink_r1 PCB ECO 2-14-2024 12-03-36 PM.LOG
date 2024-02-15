@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Member From Class: ClassName=eink_r1 Member=C15
+Removed Member From Class: ClassName=eink_r1 Member=C16
+Removed Member From Class: ClassName=eink_r1 Member=Y1
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Added Member To Class: ClassName=eink_r1 Member=Component S1 PTS636_SM43J_SMTR_LFS
